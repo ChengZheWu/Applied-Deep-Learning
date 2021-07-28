@@ -6,10 +6,10 @@
 2. Input - “我 很 感謝 你 借 我 安全帽 ！”  Label - 1 (positive)  
 
 ## Results
-Dataset |Acc
---------|---:
-Public  |90.06
-Private |89.70
+Dataset      |Acc
+-------------|:-------------:
+Public       |90.06
+Private      |89.70
 
 ## How to run code
 
