@@ -1,5 +1,8 @@
 # Intent Classification & Slot Tagging
 
+## Model  
+![model](https://github.com/ChengZheWu/Applied-Deep-Learning/blob/main/hw1/model.png)  
+
 ## Environment
 ```shell
 # If you have conda, we recommend you to build a conda environment called "adl"
