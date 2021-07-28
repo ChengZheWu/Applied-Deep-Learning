@@ -11,7 +11,7 @@ Intent Classification (ACC) |99.73  |93.66  |92.888 |93.377 |no relu
 Slot Tagging (Joint ACC)    |91.17  |78.61  |71.903 |73.847 |
 Slot Tagging (Joint ACC)    |91.67  |80.07  |75.656 |77.170 |no relu
 
- x            |precision |recall    |F1-score  |support
+ \            |precision |recall    |F1-score  |support
 :------------:|:--------:|:--------:|:--------:|:--------:
 date          |0.75      |0.74      |0.74      |206
 first name    |0.93      |0.88      |0.90      |102
