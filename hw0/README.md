@@ -1,3 +1,13 @@
+# Text sentiment classification
+![idagram](https://github.com/ChengZheWu/Applied-Deep-Learning-/blob/main/hw0/diagram.png)  
+
+## Data examples
+1. Input - “不管 再 怎麼 努力 都 沒有用”    Label - 0 (negative)
+2. Input - “我 很 感謝 你 借 我 安全帽 ！”  Label - 1 (positive)  
+
+## Results
+
+
 ## How to run code
 
 1. The data_folder is the destination of csv data.
