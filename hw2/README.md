@@ -17,7 +17,7 @@ Q: "最早的鼓可以追溯至什麼古文明?"
 
 ## Model
 Huggingface Transformers中提供許多pretrained model讓使用者做finetune，像是BERT等model，因此本次作業也使用Huggingface裡面的model來訓練。  
-## Multiple Choice
+### Multiple Choice
 1. BERT (“bert-base-chinese”)
 ### Question Answering
 1. BERT (“bert-base-chinese”)
