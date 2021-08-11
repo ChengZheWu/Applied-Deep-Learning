@@ -1,7 +1,8 @@
 # Chinese Question Answering
 This task can be decomposed into 2 tasks:
 * Context selection: determine which context is relevant.
-* Span selection: determine the start and end position of the answer span in the context.
+* Span selection: determine the start and end position of the answer span in the context.  
+  
 ![pipeline](https://github.com/ChengZheWu/Applied-Deep-Learning/blob/main/hw2/pipeline.png)
 
 ## Multiple Choice
