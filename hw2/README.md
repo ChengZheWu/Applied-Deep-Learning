@@ -1,4 +1,19 @@
-# Homework2
+# Chinese Question Answering
+
+## Multiple Choice
+### Input: Question、Context list
+Q: "最早的鼓可以追溯至什麼古文明?"  
+1. "鼓是一種打擊樂器，...，最早的鼓出現於西元前六千年的兩河文明"  
+2. "盧克萊修生於共和國末期，...，被古典主義文學視為經典"  
+3. "視網膜又稱視衣，...，約3mm2大的橢圓。"  
+### Output: Category
+1. "鼓是一種打擊樂器，...，最早的鼓出現於西元前六千年的兩河文明"  
+## Question Answering
+### Input: Question、Context
+Q: "最早的鼓可以追溯至什麼古文明?"  
+1. "鼓是一種打擊樂器，...，最早的鼓出現於西元前六千年的兩河文明"  
+### Output: Answer
+"兩河文明"  
 
 ## How to run code
 
