@@ -10,7 +10,13 @@ Google mt5 model: It’s a multilingual variant of T5 covering 101 languages.
 ![T5](https://github.com/ChengZheWu/Applied-Deep-Learning/blob/main/hw3/t5.png)  
 
 ## Results
+![Learning curve](https://github.com/ChengZheWu/Applied-Deep-Learning/blob/main/hw3/learning%20curve.png)  
+Fig1. Learning curve.  
 
+Generation strategies |Rouge-1  |Rouge-2  |Rouge-L  |
+:--------------------:|:-------:|:-------:|:-------:|
+Greedy                |26.05    |9.87     |24.14
+Beam search           |26.88    |10.63    |24.86
 
 ## How to run code
 
