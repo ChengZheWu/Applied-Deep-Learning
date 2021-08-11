@@ -5,6 +5,9 @@
 ### Output: news title
 榜首進台大醫科卻休學 、27歲拿到法國天文博士 李悅寧跌破眾人眼鏡返台任教  
 
+## Model
+google mt5 model
+
 
 ## How to run code
 
@@ -25,3 +28,7 @@ or
 # 修改 input_path =  "./input.jsonl" # 為 input data 的位置
 # 修改 output_path = "./output.jsonl" # 為 output data 的位置 
 ```
+
+### Reference
+[T5](https://arxiv.org/abs/1910.10683)  
+[Huggingface](https://github.com/huggingface/transformers)  
