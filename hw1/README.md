@@ -1,5 +1,18 @@
 # Intent Classification & Slot Tagging
 
+## Intent classification
+### Input: Text
+"i dont like my current insurance plan and want a new one",  
+"when will my american express credit card expire",  
+"how would i get to city hall via bus",  
+### output: Intent
+"insurance_change",  
+"expiration_date",  
+"directions"  
+
+## Slot tagging
+
+
 ## Model  
 ![model](https://github.com/ChengZheWu/Applied-Deep-Learning/blob/main/hw1/model.png)  
 
