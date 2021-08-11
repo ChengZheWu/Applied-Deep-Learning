@@ -6,7 +6,7 @@
 榜首進台大醫科卻休學 、27歲拿到法國天文博士 李悅寧跌破眾人眼鏡返台任教  
 
 ## Model
-google mt5 model  
+Google mt5 model: It’s a multilingual variant of T5 covering 101 languages.  
 ![T5](https://github.com/ChengZheWu/Applied-Deep-Learning/blob/main/hw3/t5.png)  
 
 ## Results
