@@ -23,6 +23,24 @@ Huggingface Transformers中提供許多pretrained model讓使用者做finetune�
 1. BERT (“bert-base-chinese”)
 2. MacBERT ("hfl/chinese-macbert-large")
 
+## Results
+### Multiple Choice
+Model |ACC(%) | 
+:----:|:-----:|
+BERT  |94.2   |
+
+### Question Answering
+Model   |EM(%)  |F1(%)  | 
+:------:|:-----:|:-----:|
+BERT    |78.9   |86.7
+MaxBERT |85.5   |91.6
+
+### Pretrained vs Not Pretrained
+BERT           |EM(%)  |F1(%)  | 
+:-------------:|:-----:|:-----:|
+pretrained     |78.9   |86.7
+not pretrained |3.5    |5.9
+
 ## How to run code
 
 ```shell
