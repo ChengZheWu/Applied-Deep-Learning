@@ -2,16 +2,21 @@
 
 ## Intent classification
 ### Input: Text
-"i dont like my current insurance plan and want a new one",  
-"when will my american express credit card expire",  
-"how would i get to city hall via bus",  
+1. "i dont like my current insurance plan and want a new one",  
+2. "when will my american express credit card expire",  
+3. "how would i get to city hall via bus",  
 ### output: Intent
-"insurance_change",  
-"expiration_date",  
-"directions"  
+1. "insurance_change",  
+2. "expiration_date",  
+3. "directions"  
 
 ## Slot tagging
-
+### Input: Text
+1. "A table ***today*** for ***myself and 3*** others"  
+2. "***My three children and i*** are in the party"  
+### output: Intent
+1. "O O ***B-date*** O ***B-people I-people I-people*** O"  
+2. "***B-people I-people I-people I-people I-people*** O O O O"  
 
 ## Model  
 ![model](https://github.com/ChengZheWu/Applied-Deep-Learning/blob/main/hw1/model.png)  
