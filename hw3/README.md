@@ -1,4 +1,7 @@
-# Homework3
+# Chinese News Summarization
+
+## Input: news content
+## Output: news title
 
 ## How to run code
 
