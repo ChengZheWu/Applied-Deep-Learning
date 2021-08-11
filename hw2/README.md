@@ -1,4 +1,7 @@
 # Chinese Question Answering
+This task can be decomposed into 2 tasks:
+* Context selection: determine which context is relevant.
+* Span selection: determine the start and end position of the answer span in the context.
 
 ## Multiple Choice
 ### Input: Question、Context list
