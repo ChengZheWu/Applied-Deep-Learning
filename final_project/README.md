@@ -18,5 +18,9 @@ BERT (bert-base-uncased)
 BERT (bert-base-uncased)
 
 # NLG
+* chit chat generation  
+* Arranger  
+![chit chat](https://github.com/ChengZheWu/Applied-Deep-Learning/blob/main/final_project/chit%20chat.png)
+![NLG](https://github.com/ChengZheWu/Applied-Deep-Learning/blob/main/final_project/NLG.png)  
 ### Input:
 ### Output:
