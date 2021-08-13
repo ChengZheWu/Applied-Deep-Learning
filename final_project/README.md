@@ -11,16 +11,24 @@ miltiWOZ & dstc8
 * question answering  
 ![DST](https://github.com/ChengZheWu/Applied-Deep-Learning/blob/main/final_project/DST.png)  
 
-## Model
-### text classification
-BERT (bert-base-uncased)
-### question answering
-BERT (bert-base-uncased)
+## text classification
+Model                    |Acc(%) |
+:-----------------------:|:-----:|
+BERT (bert-base-uncased) |96     |
+
+## question answering
+Model                    |EM(%)  |F1(%)  |
+:-----------------------:|:-----:|:-----:|
+BERT (bert-base-uncased) |69.1   |65.2
 
 # NLG
 * chit chat generation  
 * Arranger  
 ![chit chat](https://github.com/ChengZheWu/Applied-Deep-Learning/blob/main/final_project/chit%20chat.png)
 ![NLG](https://github.com/ChengZheWu/Applied-Deep-Learning/blob/main/final_project/NLG.png)  
-### Input:
-### Output:
+
+## Model
+### chit chat generation
+Parlai中的Tutorial Transformer Generator(90M transformer model)
+### Arranger
+RoBERTa
