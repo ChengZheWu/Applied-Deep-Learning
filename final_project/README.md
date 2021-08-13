@@ -30,7 +30,7 @@ BERT (bert-base-uncased) |69.1   |65.2
 ## chit chat generation
 Model                                                           |Token Acc(%) |
 :--------------------------------------------------------------:|:-----------:|
-Parlai中的Tutorial Transformer Generator(90M transformer model) |75.1     
+ParlAI中的Tutorial Transformer Generator(90M transformer model) |75.1     
 
 ## Arranger
 Model   |Acc(%) |
@@ -40,3 +40,7 @@ RoBERTa |66.31  |
 ## Result
 ![result](https://github.com/ChengZheWu/Applied-Deep-Learning/blob/main/final_project/result.png)  
 
+# Reference
+[Huggingface transformers](https://github.com/huggingface/transformers)
+[Adding Chit-Chat to Enhance Task-Oriented Dialogues](https://arxiv.org/abs/2010.12757)
+[ParlAI](https://github.com/facebookresearch/ParlAI)
