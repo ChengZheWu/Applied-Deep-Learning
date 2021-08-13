@@ -27,8 +27,16 @@ BERT (bert-base-uncased) |69.1   |65.2
 ![chit chat](https://github.com/ChengZheWu/Applied-Deep-Learning/blob/main/final_project/chit%20chat.png)
 ![NLG](https://github.com/ChengZheWu/Applied-Deep-Learning/blob/main/final_project/NLG.png)  
 
-## Model
-### chit chat generation
-Parlai中的Tutorial Transformer Generator(90M transformer model)
-### Arranger
-RoBERTa
+## chit chat generation
+Model                                                           |Token Acc(%) |
+:--------------------------------------------------------------:|:-----------:|
+Parlai中的Tutorial Transformer Generator(90M transformer model) |75.1     
+
+## Arranger
+Model   |Acc(%) |
+:------:|:-----:|
+RoBERTa |66.31  |
+
+## Result
+![result](https://github.com/ChengZheWu/Applied-Deep-Learning/blob/main/final_project/result.png)  
+
