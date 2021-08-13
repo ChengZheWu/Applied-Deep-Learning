@@ -2,10 +2,10 @@
 * Dialogue State Tracking (DST)
 * Natural language generation (NLG)
 
-## DST
+# DST
 ### Input:
 ### Output:
 
-## NLG
+# NLG
 ### Input:
 ### Output:
